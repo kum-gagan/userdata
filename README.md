@@ -10,6 +10,6 @@ Running this Application require following steps.
 
   // Display data
 1. Open client folder.
-2. Open command terminal on client terminal.
+2. Open command terminal on client folder.
 3. Type npm start on command terminal.
 4. Data will we displayed here after fetching from the server.
