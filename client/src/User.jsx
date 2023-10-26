@@ -12,6 +12,9 @@ const User = ({data}) => {
                             <td>{name}</td>
                             <td>{email}</td>
                             <td>{street}, {city}, {zipcode}</td>
+                            <td>{phone}</td>
+                            <td>{website}</td>
+                            <td>{curUser.company.name}</td>
                         </tr>
                     )
                 })
