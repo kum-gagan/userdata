@@ -33,6 +33,9 @@ function App() {
                 <th>Name</th>
                 <th>Email</th>
                 <th>Address</th>
+                <th>Phone no</th>
+                <th>website</th>
+                <th>company</th>
             </tr>
             </thead>
             <tbody>
